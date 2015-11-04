@@ -22,10 +22,10 @@
 
 [CmdletBinding()]
 Param(
-    [Parameter(Mandatory=$True)]
-    [string]$FolderPath,
+  [Parameter(Mandatory=$True)]
+  [string]$FolderPath,
 
-    [Bool]$ShowProgress = $True
+  [Bool]$ShowProgress = $True
 )
 
 # add functions
