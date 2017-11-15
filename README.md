@@ -1,4 +1,6 @@
 # Split images on Landscape/Portrait Powershell-ImageMagick script
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fnikolay-borzov%2FSplit-on-Landscape-Portrait.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fnikolay-borzov%2FSplit-on-Landscape-Portrait?ref=badge_shield)
+
 Powershell script that allows to split images on landscape/portrait
 
 ```
@@ -18,3 +20,6 @@ DESCRIPTION
 ```
 
 You can create a shortcut for `Split on Landscape-Portrait.bat` and place it to SendTo menu
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fnikolay-borzov%2FSplit-on-Landscape-Portrait.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fnikolay-borzov%2FSplit-on-Landscape-Portrait?ref=badge_large)
